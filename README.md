@@ -16,7 +16,9 @@
     @nationality = ['South African', 'British', 'EU residency']
     @education = [ 'Stellenbosch University', 'Le Wagon', 'Chek Institute' ]
     @hobbies = [ 'Slacklining', 'Boardgames', 'Hiking' ]
-  end
+    @skills = ['ruby on rails', 'Javascript', 'NodeJS', 'PosgresQL', 'MySQL', 'HTML'
+                'CSS', 'Git', 'Heroku']
+   end
 
    def current_location
      'Cape Town, South Africa'
