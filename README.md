@@ -6,6 +6,15 @@
 
 <p align="center">Fresh off a bootcamp with Lewagon, I'm now looking to further develop my skills and secure my first software development job.
 </p>
+
+<p align="center">
+  Linkedin: www.linkedin.com/in/domwalsh
+</p>
+
+<p align="center">
+  Email: dommywalsh@proton.me
+</p>
+
 <hr>
 
 <h3 align="center">In case you might be interested...</h3>
