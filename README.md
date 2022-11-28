@@ -12,7 +12,7 @@
 </p>
 <hr>
 
-<h3 align="center">In case you might be interested...</h3>
+<h3 align="center">More about me 👇</h3>
 
  ```ruby
  class Dom < Human
