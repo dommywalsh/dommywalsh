@@ -10,11 +10,6 @@
 <p align="center">
   Linkedin: www.linkedin.com/in/domwalsh
 </p>
-
-<p align="center">
-  Email: dommywalsh@proton.me
-</p>
-
 <hr>
 
 <h3 align="center">In case you might be interested...</h3>
