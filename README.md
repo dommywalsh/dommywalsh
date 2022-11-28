@@ -1,12 +1,12 @@
-<h1 align="center">Hello you legends! 👋 I'm Dom, thanks for visiting my github page!</h1>
+<h2 align="center">Hello you legends! 👋 </h2>
 
-<div align="center">
+<p align="center">
+  I'm Dom! I'm a budding software engineer based out of Barcelona/Cape Town.
+  Fresh off a bootcamp with Lewagon, I'm now looking to further develop my skills and secure my first software development job.
+</p>
+<hr>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-domwalsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domwalsh/)](https://www.linkedin.com/in/domwalsh/)
-</div>
-<br>
-
-<h3>A little bit about me...</h3>
+<h3 align="center">In case you were interested...</h3>
 
  ```ruby
  class Dom < Human
@@ -16,9 +16,7 @@
     @nationality = ['South African', 'British', 'EU residency']
     @education = [ 'Stellenbosch University', 'Le Wagon', 'Chek Institute' ]
     @hobbies = [ 'Slacklining', 'Boardgames', 'Hiking' ]
-    @skills = ['ruby on rails', 'Javascript', 'NodeJS', 'PosgresQL', 'MySQL', 'HTML'
-                'CSS', 'Git', 'Heroku']
-   end
+  end
 
    def current_location
      'Cape Town, South Africa'
