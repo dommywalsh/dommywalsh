@@ -36,7 +36,7 @@
     {
       coding: ['A boardgame meetup app: Game Plan'],
       reading: [ 'The pragmatic programmer', 'The mastery of love'],
-      eating: ['poke bowl']
+      listening_to: ['Low rider - War']
     }
    end
  end
