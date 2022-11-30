@@ -1,4 +1,4 @@
-<h2 align="center">Hello fellow humans! 👋 </h2>
+<h2 align="center">Hello you legend! 👋 </h2>
 
 <p align="center">
   I'm Dom! a budding fullstack developer based out of Barcelona/Cape Town.
