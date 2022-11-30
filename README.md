@@ -4,9 +4,6 @@
   I'm Dom! a budding fullstack developer based out of Barcelona/Cape Town.
 </p>
 
-<p align="center">Fresh off a bootcamp with Lewagon, I'm now looking to further develop my skills and secure my first software development job.
-</p>
-
 <p align="center">
   Linkedin: www.linkedin.com/in/domwalsh
 </p>
