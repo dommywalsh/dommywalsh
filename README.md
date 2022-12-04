@@ -4,9 +4,15 @@
   I'm Dom! a budding fullstack developer based out of Barcelona/Cape Town.
 </p>
 
-<p align="center">
-  Linkedin: www.linkedin.com/in/domwalsh
-</p>
+<div align="center">
+  <a href="https://dommywalsh.notion.site/Dom-Walsh-s-Portfolio-f56fbfbef2f3413785818a112b2d775a" target="_blank">Portfolio</a>
+  |
+   <a href="https://www.linkedin.com/in/domwalsh/" target="_blank">Linkedin</a>
+</div>
+
+
+
+
 <hr>
 
 <h3 align="center">More about me 👇</h3>
