@@ -38,7 +38,7 @@
    def currently
     {
       coding: ['A boardgame meetup app: Game Plan'],
-      reading: [ 'The pragmatic programmer', 'The mastery of love'],
+      reading: [ 'The pragmatic programmer', 'The Drifters'],
       listening_to: ['Low rider - War']
     }
    end
