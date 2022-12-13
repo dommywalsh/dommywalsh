@@ -1,12 +1,12 @@
-<h2 align="center">Hello you legend! 👋 </h2>
+<h2 align="center">Hello, you legend! 👋 </h2>
 
 <p align="center">
   I'm Dom! a budding fullstack developer based out of Barcelona/Cape Town.
 </p>
 
 <div align="center">
-  <a href="https://dommywalsh.notion.site/Dom-Walsh-s-Portfolio-f56fbfbef2f3413785818a112b2d775a" target="_blank">Portfolio</a>
-  |
+<!--   <a href="https://dommywalsh.notion.site/Dom-Walsh-s-Portfolio-f56fbfbef2f3413785818a112b2d775a" target="_blank">Portfolio</a> -->
+<!--   | -->
    <a href="https://www.linkedin.com/in/domwalsh/" target="_blank">Linkedin</a>
 </div>
 
