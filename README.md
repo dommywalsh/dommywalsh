@@ -8,6 +8,7 @@
 
 ```typescript
 class Dom extends SoftwareEngineer {
+
   readonly name = "Dom Walsh";
 
   readonly location = "Cape Town, South Africa";
